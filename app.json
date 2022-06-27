@@ -1,0 +1,38 @@
+{
+    "name": "haoydk",
+    "description": "hjk",
+    "keywords": ["dxy"],
+    "env": {
+        "AA": {
+            "description": "",
+            "value": "If you "
+        },
+        "AUUID": {
+            "description": "y. UUID : https://www.uuidgenerator.net",
+            "value": "3a2c3e9b-dff1-4888-8a58-5cf2eae65557"
+        },
+        "CADDYIndexPage": {
+            "description": "CADDYIndexPage",
+            "value": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation/archive/master.zip"
+        },
+        "CONFIGCADDY": {
+            "description": "CADDY configuration",
+            "value": "https://raw.githubusercontent.com/hnsdmnlouk/dsty/master/etc/Caddyfile"
+        },
+        "CONFIGXRAY": {
+            "description": "configuration",
+            "value": "https://raw.githubusercontent.com/hnsdmnlouk/dsty/master/etc/xray.json"
+        },
+        "ParameterSSENCYPT": {
+            "description": " https://www.v2fly.org/config/protocols/shadowsocks.html",
+            "value": "chacha20-ietf-poly1305"
+        },
+        "StoreFiles": {
+            "description": "",
+            "value": "https://raw.githubusercontent.com/hnsdmnlouk/dsty/master/etc/StoreFiles"
+        }
+    },
+    "website": "https://github.com/用户名/仓库名",
+    "repository": "https://github.com/用户名/仓库名",
+    "stack": "container"
+}
